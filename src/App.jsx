@@ -34,7 +34,7 @@ export default function TaskApp() {
 
   return (
     <div className="container">
-      <h1>Task List C2C</h1>
+      <h1>Task List C2C-yuva</h1>
       <AddTask tasks={tasks} handleAddTask={handleAddTask} />
       <TaskList
         tasks={tasks}
